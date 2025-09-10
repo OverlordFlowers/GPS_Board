@@ -7,13 +7,13 @@ This project is a custom-designed PCB created to receive L1 GPS signals. Signals
 Created using Altium.
 
 # Features
-    * L1 GPS receiver module
+* L1 GPS receiver module
 
 # Motivation
 The goal of this project is to:
-    * Get feet wet with RF design, taking what I've learned about in classes and finding applications for them
-    * Build a reliable GPS board
-    * Eventual integration of GPS module into larger projects (such as robotics)
+* Get feet wet with RF design, taking what I've learned about in classes and finding applications for them
+* Build a reliable GPS board
+* Eventual integration of GPS module into larger projects (such as robotics)
 
 # Usage
 The board is meant to be provided a +5V power source. This is fed into a buck converter with a 3V3 output to provide an efficient power source.
