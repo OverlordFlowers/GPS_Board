@@ -4,10 +4,11 @@ This is my attempt at learning RF design related to PCBs. Features the Teseo-LIV
 Created using Altium.
 
 # Figures
+## Schematic
+![alt text](Figures/Schematic.png "Schematic")
 ## Top Side 3D
 ![alt text](Figures/TopSide.png "Top Side")
 ## Bottom Side 3D
 ![alt text](Figures/BottomSide.png "Bottom Side")
-## Schematic
-![alt text](Figures/Schematic.png "Schematic")
+
 
