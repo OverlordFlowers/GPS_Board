@@ -1,6 +1,6 @@
 # GPS_Board
 # Overview
-This is my attempt at learning RF design related to PCBs. Features the Teseo-LIV3R GNSS receiver module and allows communication through i2c and UART.
+This is an attempt at learning RF design related to PCBs. Features the Teseo-LIV3R GNSS receiver module and allows communication through I2C and UART.
 
 This project is a custom-designed PCB created to receive L1 GPS signals. Signals from an antenna are fed through a low noise amplifier which is then filtered using a SAW RF with a center frequency of ~1575 MHz.
 
