@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GPS_SCL Pin=H1-3
+Removed Pin From Net: NetName=GPS_SDA Pin=H1-4
+Removed Pin From Net: NetName=GPS_SYSRST Pin=H1-5
+Removed Pin From Net: NetName=GPS_WK Pin=H2-1
+Added Pin To Net: NetName=GPS_SDA Pin=H1-3
+Added Pin To Net: NetName=GPS_SCL Pin=H1-4
+Added Pin To Net: NetName=GPS_WK Pin=H1-5
+Added Pin To Net: NetName=GPS_SYSRST Pin=H2-1

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GPS_WK Pin=H1-5
+Removed Pin From Net: NetName=GPS_UART_RX Pin=H2-2
+Removed Pin From Net: NetName=GPS_UART_TX Pin=H2-3
+Added Pin To Net: NetName=GPS_WK Pin=H2-2
+Added Pin To Net: NetName=GPS_UART_RX Pin=H2-3
+Added Pin To Net: NetName=GPS_UART_TX Pin=H2-4

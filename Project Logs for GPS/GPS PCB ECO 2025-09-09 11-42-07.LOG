@@ -1,0 +1,14 @@
+Added Component: Designator=D?(APG015CGKKC-TT)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "604-APG015CGKKC-TT"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_YAG_0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RT0402FRE07120RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=D?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=GPS Member=Component D? Green
+Added Member To Class: ClassName=GPS Member=Component R? 120

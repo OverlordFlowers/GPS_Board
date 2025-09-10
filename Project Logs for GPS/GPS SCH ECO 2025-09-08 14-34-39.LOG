@@ -1,0 +1,11 @@
+Replace Part B1 MP2141NGTF-Z in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with MP2141NGTF-Z from Regulators.SchLib
+Replace Part C1 GCM155R71H102KA37 in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with GCM155R71H102KA37 from Capacitors.SchLib
+Replace Part C2 GCM1555C1H121JA16 in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with GCM1555C1H121JA16 from Capacitors.SchLib
+Replace Part C3 GCM1555C1H121JA16 in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with GCM1555C1H121JA16 from Capacitors.SchLib
+Replace Part IC? TESEO-LIV3R in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with TESEO-LIV3R from IC.SchLib
+Replace Part L1 L08055R6CEWTR in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with L08055R6CEWTR from Inductors.SchLib
+Update Managed Component R? From CMP-009-00165-3[Resistor 1M +/-1 % 0402 63 mW] To CMP-009-00165-3[Resistor 1M +/-1 % 0402 63 mW] in GPS.SchDoc
+Replace Part R? RT0402FRE07200KL in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with RT0402FRE07200KL from Resistors.SchLib
+Replace Part R? RT0402FRE0744K2L in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with RT0402FRE0744K2L from Resistors.SchLib
+Replace Part U1 BGA725L6 in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with BGA725L6 from LNA.SchLib
+Replace Part Z1 B39162B4327P810 in C:\Users\chenr\Desktop\Projects\GPS_Proj\GPS.SchDoc with B39162B4327P810 from Filters.SchLib
