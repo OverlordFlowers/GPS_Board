@@ -28,6 +28,9 @@ To communicate, the LIV3R publishes NMEA data packets. There are pins for UART a
 ## Bottom Side 3D
 ![alt text](Figures/BottomSide.png "Bottom Side")
 
+# Video Demo
+(To be linked)
+
 # Future Improvements
 I need to see if it actually works...
 
