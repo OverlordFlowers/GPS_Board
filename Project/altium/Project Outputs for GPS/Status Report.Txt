@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [GPS.PrjPcb]
+   Generated File[GPS.GTO]
+   Generated File[GPS.GTP]
+   Generated File[GPS.GTS]
+   Generated File[GPS.GTL]
+   Generated File[GPS.G1]
+   Generated File[GPS.G2]
+   Generated File[GPS.GBL]
+   Generated File[GPS.GBS]
+   Generated File[GPS.GBP]
+   Generated File[GPS.GBO]
+   Generated File[GPS.GM1]
+   Generated File[GPS.GM2]
+   Generated File[GPS.GM13]
+   Generated File[GPS.GM15]
+   Generated File[GPS.GM20]
+   Generated File[GPS.GKO]
+   Generated File[GPS.GPT]
+   Generated File[GPS.GPB]
+   Generated File[GPS.GD1]
+   Generated File[GPS.GG1]
+   Generated File[GPS.GM]
+   Generated File[GPS.EXTREP]
+   Generated File[GPS.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 16:37:16 On 2025-09-10
